@@ -6,6 +6,6 @@
 
   "dependencies": {
     "debug": "*",
-    "marionette-profile-builder": "file:../../../../tests/jsmarionette/runner/marionette-profile-builder"
+    "marionette-profile-builder": "file:../../../tests/jsmarionette/runner/marionette-profile-builder"
   }
 }
